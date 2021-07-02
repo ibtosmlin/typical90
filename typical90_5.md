@@ -19,7 +19,7 @@ https://atcoder.jp/contests/typical90/
 ![#053](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/053-02.jpg)
 ![#053](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/053-03.jpg)
 ![#053](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/053-04.jpg)
-- [ ] Typical
+- [x] Typical
 - [ ] APC001-C
 - [ ] ABC019-D
 - [ ] ARC054-B
@@ -63,6 +63,9 @@ https://atcoder.jp/contests/typical90/
 
 ## [#059](https://atcoder.jp/contests/typical90/tasks/typical90_bg)
 ![#059](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/059-01.jpg)
+![#059](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/059-02.jpg)
+![#059](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/059-03.jpg)
+
 - [ ] Typical
 - [ ] EDPC-G
 - [ ] ABC037-D
@@ -73,7 +76,9 @@ https://atcoder.jp/contests/typical90/
 ## [#060](https://atcoder.jp/contests/typical90/tasks/typical90_bh)
 ![#060](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/060.jpg)
 - [x] Typical
-- [ ] ABC129-C
-- [ ] JOI2007予選6
-- [ ] JOI2011予選4
-- [x] EDPC-A
+- [ ] JOI2007春合宿2007Building
+- [ ] ABC006-D
+- [ ] ABC038-D
+- [ ] ABC134-E
+- [ ] ABC077-C
+- [ ] ARC070-D
