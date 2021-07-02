@@ -5,7 +5,6 @@ https://atcoder.jp/contests/typical90/
 ![#071](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/071-01.jpg)
 ![#071](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/071-02.jpg)
 ![#071](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/071-03.jpg)
-![#071](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/071-04.jpg)
 - [ ] Typical
 - [ ] JOI2007本選4
 - [ ] ABC139-E
