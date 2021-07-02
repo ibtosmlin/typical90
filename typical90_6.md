@@ -5,15 +5,15 @@ https://atcoder.jp/contests/typical90/
 ![#061](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/061.jpg)
 - [x] Typical
 - [ ] 第六回アルゴリズム実技検定-E
-- [ ] ABC158_D
-- [ ] ZONE2021_D
+- [ ] ABC158-D
+- [ ] ZONE2021-D
 
 ## [#062](https://atcoder.jp/contests/typical90/tasks/typical90_bj)
 ![#062](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/062.jpg)
 - [ ] Typical
-- [ ] ABC120_D
-- [ ] ABC137_D
-- [ ] AGC033_B
+- [ ] ABC120-D
+- [ ] ABC137-D
+- [ ] AGC033-B
 
 ## [#063](https://atcoder.jp/contests/typical90/tasks/typical90_bk)
 ![#063](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/063.jpg)
@@ -34,7 +34,6 @@ https://atcoder.jp/contests/typical90/
 ![#065](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/065-01.jpg)
 ![#065](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/065-02.jpg)
 ![#065](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/065-03.jpg)
-![#065](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/065-04.jpg)
 - [ ] Typical
 - [ ] ABC034-C
 - [ ] ABC145-D
