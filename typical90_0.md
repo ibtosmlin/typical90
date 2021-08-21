@@ -53,7 +53,7 @@ https://atcoder.jp/contests/typical90/
 ![#008](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/008.jpg)
 - [x] Typical   2021/07/15
 - [?] DDCC2019本選-D
-- [ ] ABC159-F
+- [x] ABC159-F  2021/07/25
 - [?] みんなのプロコン2019-D
 
 ## [#009](https://atcoder.jp/contests/typical90/tasks/typical90_i)
