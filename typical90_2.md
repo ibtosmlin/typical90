@@ -15,12 +15,13 @@ https://atcoder.jp/contests/typical90/
 - [x] ABC118-C  2021/8/16
 - [x] ABC125-C  2021/8/16
 
+
 ## [#023](https://atcoder.jp/contests/typical90/tasks/typical90_w)
 ![#023](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/023-01.jpg)
 ![#023](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/023-02.jpg)
 ![#023](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/023-03.jpg)
 - [ ] Typical
-- [ ] ABC190-C
+- [x] ABC190-C
 - [ ] ABC196-D
 - [ ] s8pc #1 G
 - [ ] JOI2017予選4 ぬいぐるみの整理
@@ -28,10 +29,11 @@ https://atcoder.jp/contests/typical90/
 
 ## [#024](https://atcoder.jp/contests/typical90/tasks/typical90_x)
 ![#024](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/024.jpg)
-- [ ] Typical
-- [ ] ABC086-C
-- [ ] AGC002-A
-- [ ] AGC020-A
+- [x] Typical   2021/11/4
+- [x] ABC086-C  2021/11/4
+- [x] AGC002-A  2021/11/4
+- [x] AGC020-A  2021/11/4
+
 
 ## [#025](https://atcoder.jp/contests/typical90/tasks/typical90_y)
 ![#025](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/025.jpg)
@@ -51,15 +53,15 @@ https://atcoder.jp/contests/typical90/
 ![#027](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/027.jpg)
 - [x] Typical       2021/8/13
 - [x] ABC155-C      2021/8/13
-- [ ] ABC008-B
+- [x] ABC008-B      2021/8/13
 - [x] ABC091-B      2021/8/13
 
 
 ## [#028](https://atcoder.jp/contests/typical90/tasks/typical90_ab)
 ![#028](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/028.jpg)
-- [ ] Typical
-- [ ] ABC014-C
-- [ ] ABC127-C
+- [x] Typical
+- [x] ABC014-C
+- [x] ABC127-C
 - [ ] JOI2008本選5 ペンキの色
 - [ ] JOI2012本選4 釘
 

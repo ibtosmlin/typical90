@@ -3,10 +3,10 @@ https://atcoder.jp/contests/typical90/
 
 ## [#061](https://atcoder.jp/contests/typical90/tasks/typical90_bi)
 ![#061](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/061.jpg)
-- [x] Typical
-- [ ] 第六回アルゴリズム実技検定-E
-- [ ] ABC158-D
-- [ ] ZONE2021-D
+- [x] Typical                   2021/12/01
+- [x] 第六回アルゴリズム実技検定-E      2021/12/01
+- [x] ABC158-D                  2021/12/01
+- [x] ZONE2021-D                2021/12/01
 
 ## [#062](https://atcoder.jp/contests/typical90/tasks/typical90_bj)
 ![#062](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/062.jpg)
@@ -17,11 +17,11 @@ https://atcoder.jp/contests/typical90/
 
 ## [#063](https://atcoder.jp/contests/typical90/tasks/typical90_bk)
 ![#063](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/063.jpg)
-- [x] Typical
-- [ ] ARC119-A
-- [ ] ABC159-E
-- [ ] 三井住友信託2019-D
-- [ ] ABC089-C
+- [x] Typical           2021/12/01
+- [x] ARC119-A          2021/12/01
+- [x] ABC159-E          2021/12/01
+- [x] 三井住友信託2019-D   2021/12/01
+- [x] ABC089-C          2021/12/01
 
 ## [#064](https://atcoder.jp/contests/typical90/tasks/typical90_bl)
 ![#064](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/064.jpg)

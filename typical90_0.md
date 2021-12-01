@@ -41,7 +41,7 @@ https://atcoder.jp/contests/typical90/
 ![#006](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/006.jpg)
 - [x] Typical   2021/07/16
 - [x] ABC076-C  2021/07/16
-- [ ] ABC009-C
+- [x] ABC009-C
 - [?] JOI2021春合宿Eventhopping2
 
 ## [#007](https://atcoder.jp/contests/typical90/tasks/typical90_g)

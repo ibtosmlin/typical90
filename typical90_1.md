@@ -9,7 +9,7 @@ https://atcoder.jp/contests/typical90/
 - [x] キーエンス2020-B     2021/07/20
 - [x] ABC187-D          2021/07/20
 - [x] ARC053-C          2021/07/21
-- [ ] EDPC-X
+- [x] EDPC-X            2021/09/01
 - [ ] ARC042-C
 - [ ] CODE Festival 2017 Final-D
 
